@@ -1,0 +1,86 @@
+# Site settings
+lang: en-US
+title: Bartosz Górka
+email: bartosz@bartoszgorka.com
+description: >-
+  I am a software engineer looking for challenging problems to solve.
+  My specialization is backend development with strong emphasis put on Domain Driven Design, Elixir/OTP principles, and modular software design.
+  I draw a lot of inspiration from distributed systems, Systems Thinking, and artificial intelligence.
+
+  The goal I constantly pursue is to build modern and amazing products that allow you to change the world with your business.
+  My motto is: Be the change you wish to see in the world.
+baseurl: ""
+url: https://bartoszgorka.com
+use_logo: false
+use_copyright: false
+
+# https://github.com/mmistakes/jekyll-theme-basically-basic#author
+author:
+  name: Bartosz Górka
+  twitter: bartoszgorka96
+  picture: /assets/images/bartoszgorka.jpeg
+
+github_username: bartoszgorka
+twitter_username: bartoszgorka96
+linkedin_username: bartoszgorka96
+logo: /assets/images/bartoszgorka.jpeg
+
+# https://github.com/mmistakes/jekyll-theme-basically-basic#search
+search: true
+search_full_content: false
+search_provider: lunr
+
+# https://github.com/mmistakes/jekyll-theme-basically-basic#google-analytics
+google_analytics: UA-179499509-1
+
+# https://github.com/mmistakes/jekyll-theme-basically-basic#comments-via-disqus
+disqus:
+  shortname: bartoszgorka
+
+markdown: kramdown
+remote_theme: "mmistakes/jekyll-theme-basically-basic"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+  tags: true
+  posts_limit: 10
+
+# Pagination - https://github.com/mmistakes/jekyll-theme-basically-basic#pagination
+paginate: 5
+paginate_path: /page-:num/
+
+# Exclude from processing.
+exclude:
+  - .asset-cache
+  - .bundle
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .jekyll-cache
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - README
+  - CNAME
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+      comments: true
+
+# Custom links instead of "/:year/:month/:day/:title"
+permalink: /:title
