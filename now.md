@@ -5,7 +5,7 @@ permalink: /now/
 ---
 # What am I doing now?
 
-- Senior Elixir Developer / Full-Stack Developer at [Eebz](https://eebz.com/).
+- Senior Elixir Engineer at [zenloop](https://zenloop.com/).
 - Writing a lot of Elixir and a bit of Vue.js code.
 - Trying to improve the sales by helping sell more products offered by retailers.
 - Trying to start my blog routine by writing about software design and Domain Driven Design.
@@ -15,5 +15,5 @@ Location: Poznań, Poland
 
 Page inspired by: [nownownow.com](https://nownownow.com/about)
 
-Last update: 15th January 2021
+Last update: 1th February 2021
 {: .small}
