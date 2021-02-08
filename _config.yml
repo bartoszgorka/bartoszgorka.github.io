@@ -13,6 +13,7 @@ baseurl: ""
 url: https://bartoszgorka.com
 use_logo: false
 use_copyright: false
+timezone: Europe/Warsaw
 
 # https://github.com/mmistakes/jekyll-theme-basically-basic#author
 author:
