@@ -54,6 +54,18 @@ feed:
 paginate: 5
 paginate_path: /page-:num/
 
+# https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+twitter:
+  username: bartoszgorka96
+  card: summary_large_image
+social:
+  name: Bartosz Górka
+  links:
+    - https://twitter.com/bartoszgorka96
+    - https://www.facebook.com/bartosz.goriusz.gorka
+    - https://www.linkedin.com/in/bartoszgorka96
+    - https://github.com/bartoszgorka
+
 # Exclude from processing.
 exclude:
   - .asset-cache
