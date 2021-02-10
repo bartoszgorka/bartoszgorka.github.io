@@ -7,8 +7,8 @@ excerpt: "
   It's worth doing it right.
   See what we should do to get noticed at a new project.
   "
-date: 2021-02-05
-last_modified_at: 2021-02-05T20:35:00+01:00
+date: 2021-02-10
+last_modified_at: 2021-02-10T07:50:00+01:00
 tags:
   - project
   - teamwork
