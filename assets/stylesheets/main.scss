@@ -86,3 +86,11 @@ footer.site-footer {
 div.footnotes p {
   margin-bottom: 0.5rem;
 }
+
+// Plaintext code
+code.language-plaintext.highlighter-rouge {
+  background: $base00;
+  color: $base05;
+  font-size: 0.9em;
+  padding: 1.5px;
+}
