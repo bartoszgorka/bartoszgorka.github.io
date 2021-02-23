@@ -5,6 +5,7 @@ excerpt: "
   For most, this was a new and unexpected situation.
   Reflecting on the topic of remote work, I wanted to prepare a list of activities that will allow us to avoid lack of concentration, constant monotony, and being at work 24 hours a day.
 "
+date: 2021-01-27T16:30:00+01:00
 last_modified_at: 2021-01-27T16:30:00+01:00
 tags:
   - remote work

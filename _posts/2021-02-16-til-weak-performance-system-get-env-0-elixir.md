@@ -4,7 +4,7 @@ excerpt: "
   Based on Erlang VM, Elixir is often limited by a virtual machine's capabilities or the language itself.
   One such limitation manifests itself in weak optimization of System.get_env/0 function.
 "
-date: 2021-02-16
+date: 2021-02-16T07:00:00+01:00
 last_modified_at: 2021-02-16T07:00:00+01:00
 tags:
   - Elixir

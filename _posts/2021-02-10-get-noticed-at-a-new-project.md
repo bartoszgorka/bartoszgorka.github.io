@@ -7,7 +7,7 @@ excerpt: "
   It's worth doing it right.
   See what we should do to get noticed at a new project.
   "
-date: 2021-02-10
+date: 2021-02-10T07:50:00+01:00
 last_modified_at: 2021-02-10T07:50:00+01:00
 tags:
   - project
