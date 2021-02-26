@@ -6,8 +6,8 @@ excerpt: "
   They even allow you to reduce variables to be hard-coded somewhere in the depths of the code.
   I will show how you can use environment variables better.
 "
-date: 2021-02-17T08:05:00+01:00
-last_modified_at: 2021-02-17T08:05:00+01:00
+date: 2021-02-17 08:05:00 +01:00
+last_modified_at: 2021-02-17 08:05:00 +01:00
 tags:
   - Elixir
   - code

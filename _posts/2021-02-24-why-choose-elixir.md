@@ -5,8 +5,8 @@ excerpt: "
   Uncertain technology is certainly not something that will interest them.
   What makes companies decide to use Elixir language?
   "
-date: 2021-02-24
-last_modified_at: 2021-02-24T07:00:00+01:00
+date: 2021-02-24 07:00:00 +01:00
+last_modified_at: 2021-02-24 07:00:00 +01:00
 tags:
   - Elixir
   - management

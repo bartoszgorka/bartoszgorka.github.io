@@ -4,13 +4,13 @@ excerpt: "Most of the projects collect a lot of data.
   It usually means a heavy loads on the database.
   What can we do to provide better request handling and lower access times?
   See how to introduce TimescaleDB to the project using Ecto."
-date: 2021-01-03T15:50:00+01:00
-last_modified_at: 2021-01-03T15:50:00+01:00
+date: 2021-01-03 15:50:00 +01:00
+last_modified_at: 2021-01-03 15:50:00 +01:00
 tags:
   - TimescaleDB
-  - time-series database
   - Elixir
   - Ecto
+  - code
 ---
 
   Most of the projects we have the pleasure of creating collect a lot of data.

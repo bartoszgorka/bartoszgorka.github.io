@@ -3,31 +3,13 @@ title: "The best books to start, or improve your Elixir career"
 excerpt: "When you start your adventure with Elixir, you may wonder where to get the knowledge.
 In this article, I have prepared a list of books that may help you become an Elixir programmer or improve your career.
 This list has been split into different levels of skill."
-date: 2021-01-15T20:00:00-00:00
-last_modified_at: 2021-01-15T20:00:00-00:00
+date: 2021-01-15 20:00:00 +01:00
+last_modified_at: 2021-01-15 20:00:00 +01:00
 tags:
-  - Elixir books
-  - Elixir career
-  - Adopting Elixir
-  - Elixir in Action
-  - Programming Elixir 1.6
-  - The Little Elixir & OTP Guidebook
-  - Programming Phoenix 1.4
-  - Programming Ecto
-  - Functional Web Development with Elixir, OTP, and Phoenix
-  - Metaprogramming Elixir
-  - Designing Elixir Systems with OTP
-  - Bruce Tate
-  - James Edward Gray II
-  - Chris McCord
-  - Darin Wilson
-  - Eric Meadows-Jönsson
-  - Lance Halvorsen
-  - José Valim
-  - Benjamin Tan Wei Hao
-  - Dave Thomas
-  - Saša Jurić
-  - Ben Marx
+  - Elixir
+  - books
+  - Ecto
+  - Phoenix
 ---
 
   When you start your adventure with Elixir, you may wonder where to get the knowledge.
