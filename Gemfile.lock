@@ -37,7 +37,7 @@ GEM
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     faraday-net_http (1.0.1)
-    ffi (1.14.2)
+    ffi (1.15.0)
     filesize (0.2.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -234,7 +234,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.14.3)
+    minitest (5.14.4)
     multipart-post (2.1.1)
     nokogiri (1.11.1)
       mini_portile2 (~> 2.5.0)
@@ -294,4 +294,4 @@ DEPENDENCIES
   jekyll-theme-basically-basic
 
 BUNDLED WITH
-   2.1.4
+   2.2.11
