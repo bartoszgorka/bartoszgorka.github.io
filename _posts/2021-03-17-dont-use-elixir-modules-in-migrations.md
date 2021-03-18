@@ -131,9 +131,14 @@ tags:
 ## Summary
 
   Changes in migrations are not tricky.
-  **Instead of structures**, we should **use raw SQL**.
+  **Instead of structures**, we should **schemaless Ecto queries**.
+  You can still use Ecto API, but you should use it without schemas.
   This will eliminate problems when we want to run our application with a clean database or change fields in schemas.
   Simple changes today can save us from critical errors in the future.
+
+  In the previous version I used the phrase "raw SQL".
+  It was not very precise as the Ecto API can still be used.
+  Thank you, [Felipe Pereira Stival](https://www.linkedin.com/in/v0idpwn/), for pointing out this ambiguity.
 
   **What do you think about it?**
   Do you have any insights you want to share?
