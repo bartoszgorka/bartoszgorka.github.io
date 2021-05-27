@@ -56,7 +56,7 @@ feed:
   posts_limit: 10
 
 # Pagination - https://github.com/mmistakes/jekyll-theme-basically-basic#pagination
-paginate: 5
+paginate: 15
 paginate_path: /page-:num/
 
 # https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
