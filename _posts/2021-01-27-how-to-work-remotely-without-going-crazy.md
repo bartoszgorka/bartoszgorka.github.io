@@ -99,8 +99,3 @@ tags:
   **Remote work is not as scary as it seems at first.**
   A well-separated private and business life allows us not to go crazy when we are working from home.
   By reducing the problem of lack of concentration, the monotony of work, and loneliness that can bother us when working from home, we can achieve very good results.
-
-  Many of my friends who have so far only worked in the office appreciate this form of work.
-  **What do you think about it?**
-  Maybe you have your insights that you want to share?
-  The comments section below is for you!

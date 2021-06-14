@@ -53,7 +53,3 @@ tags:
 
   **The environment should support our development.**
   Building associations between place and activities can mentally support our decisions.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

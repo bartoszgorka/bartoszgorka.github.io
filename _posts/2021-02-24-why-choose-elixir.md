@@ -102,7 +102,3 @@ tags:
 
   I presented what I think about Elixir and its features that may help business.
   Depending on the company's nature, the number of experienced employees, and openness to still young technology, the preferences may be different.
-
-  **What do you think about it?**
-  Maybe you have your insights that you want to share?
-  The comments section below is for you!

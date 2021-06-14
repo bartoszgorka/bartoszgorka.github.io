@@ -113,7 +113,3 @@ tags:
   **Life is the art of choices.**
   There are some adversities that we should avoid.
   It is worth **treating others as if we would like to be treated ourselves**.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

@@ -57,7 +57,3 @@ tags:
   * building / updating index in ElasticSearch
   * CSV / PDF export - grouping large amounts of data
   * much more ...
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

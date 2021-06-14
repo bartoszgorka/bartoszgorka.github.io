@@ -172,7 +172,3 @@ tags:
 
   The new version of the language is an excellent opportunity to test its capabilities.
   Share your scripts or applications that can be addressed by new Elixir 1.12.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

@@ -109,7 +109,3 @@ tags:
   **Productivity is excellent**, and it's worth taking care of.
   **Small changes can give you fantastic acceleration.**
   Getting better results, staying focused, and feeling that the next thing is done are great.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

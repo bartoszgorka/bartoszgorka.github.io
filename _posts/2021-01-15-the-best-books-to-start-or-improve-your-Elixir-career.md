@@ -111,7 +111,3 @@ tags:
   The list I have prepared is an overview of the Elixir books.
   I chose the items that I think are worth getting to know first.
   Divided by advancement so that you can choose what suits your current advancement.
-
-  The comments section below is for you.
-  If you've found a worth book reading, please let me know.
-  Remember to share your feelings about the article and books in the comments.

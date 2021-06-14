@@ -48,7 +48,3 @@ tags:
   It is my new way of dealing with the (private) projects I carry out.
   Instead of dividing up into tasks and thinking about everything right away, **you can accomplish as much as you can**.
   An excellent start to the day can motivate us to work.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

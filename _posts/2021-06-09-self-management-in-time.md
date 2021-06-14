@@ -87,7 +87,3 @@ tags:
   **Avoid multitasking**, focus on **one activity**, and try to do the best you can.
   **Group tasks into blocks** to make it easier to achieve goals and perform planned tasks without distracting and switching context.
   Remember that **meetings can be tiring**; make sure that each one has a clear goal, plan, and a specific time frame.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

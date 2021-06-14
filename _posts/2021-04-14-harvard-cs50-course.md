@@ -58,7 +58,3 @@ tags:
 
   If you have free time or want to start in IT - **I highly recommend it**.
   It can also be helpful during your studies to better understand the fundamental issues.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

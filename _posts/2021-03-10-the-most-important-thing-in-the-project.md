@@ -87,7 +87,3 @@ tags:
   **Iterate, analyze, improve.**
   Then modify a code.
   Not earlier.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

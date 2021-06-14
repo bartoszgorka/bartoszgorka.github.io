@@ -94,3 +94,58 @@ code.language-plaintext.highlighter-rouge {
   font-size: 0.9em;
   padding: 1.5px;
 }
+
+// Mailchimp newsletter
+#mc_embed_signup {
+  border: 1px solid $border-color;
+  background-color: #f9fafc;
+  border-radius: 5px;
+  margin-bottom: 35px;
+
+  form#mc-embedded-subscribe-form {
+    text-align: center;
+    color: $text-color;
+    padding: 10px 15px;
+
+    .mc-field-group {
+      width: 100%;
+    }
+
+    input {
+      border-color: $border-color;
+      font-size: 15px;
+    }
+
+    input#mc-embedded-subscribe {
+      background-color: $accent-color;
+      border-radius: 5px;
+      height: 36px;
+      line-height: 36px;
+      margin: 0 5px 10px 0;
+      padding: 0px 36px;
+
+      &:hover {
+        background-color: shade($accent-color, 25%);
+      }
+    }
+
+    p#benefits {
+      font-size: 16px;
+      color: tint($text-color, 15%);
+      font-style: italic;
+    }
+
+    p#unsubscribe {
+      margin-top: 10px;
+      margin-bottom: 5px;
+      font-size: 12px;
+      font-weight: 200;
+    }
+
+    h2 {
+      color: $text-color;
+      font-size: 24px;
+      margin: 15px 0;
+    }
+  }
+}

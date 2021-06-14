@@ -144,7 +144,3 @@ tags:
   **A simple extension allowed me to reduce switching between browser tabs or application windows.**
   Two clicks, and the clock is running.
   **This automation is great!**
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!
