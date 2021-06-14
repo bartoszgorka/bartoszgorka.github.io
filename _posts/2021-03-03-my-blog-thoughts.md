@@ -99,8 +99,3 @@ tags:
   Writing at first can be difficult.
   It's much easier later.
   **Rome wasn't built in a day.**
-
-  These are my thoughts on writing a blog.
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

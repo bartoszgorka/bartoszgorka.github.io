@@ -11,6 +11,10 @@ layout: default
         {{ content }}
       </div>
 
+      {% if page.skip_post_footer != true %}
+        {% include post-footer.html refpage=page.title %}
+      {% endif %}
+
       {% if page.skip_related != true %}
         <div id="related">
           <h3>{{ site.data.theme.t.related_posts }}</h3>
@@ -20,10 +24,6 @@ layout: default
             {% endfor %}
           </ul>
         </div>
-      {% endif %}
-
-      {% if site.disqus.shortname %}
-        {% include disqus_comments.html %}
       {% endif %}
     </article>
   </div>

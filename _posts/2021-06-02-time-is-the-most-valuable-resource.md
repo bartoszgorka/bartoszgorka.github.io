@@ -34,7 +34,3 @@ tags:
 
   It’s **you** who gets to live **your one and only life**.
   Don’t let people who won’t ever live with the consequences of your choices determine how you spend your time.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

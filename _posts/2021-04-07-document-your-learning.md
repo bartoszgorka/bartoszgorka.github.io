@@ -72,7 +72,3 @@ tags:
   **Don't be afraid to document your learning.**
   By pointing out what we know and how we understand it, we can help ourselves and others.
   We can also get tips on what to watch out for or suggestions for the next step.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

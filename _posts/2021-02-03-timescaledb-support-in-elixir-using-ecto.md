@@ -113,8 +113,3 @@ tags:
   As we can see, **using TimescaleDB is not complicated at all.**
   Depending on the project, we can gain a lot from its introduction to our system.
   I recommend you check out the [TimescaleDB vs. Relational Databases comparison](https://docs.timescale.com/latest/introduction/timescaledb-vs-postgres).
-
-  I have presented my adventure with this extension.
-  What do you think about it?
-  Maybe you have your insights that you want to share?
-  The comments section below is for you!

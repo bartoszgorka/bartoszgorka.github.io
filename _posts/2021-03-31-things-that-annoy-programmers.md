@@ -89,7 +89,3 @@ tags:
   **A software developer is a person like any other.**
   Daily work, however, provides many situations to upset, surprise, and even laugh.
   The most important thing is to **remain human and be able to cope with the world around us**.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

@@ -139,7 +139,3 @@ tags:
   In the previous version I used the phrase "raw SQL".
   It was not very precise as the Ecto API can still be used.
   Thank you, [Felipe Pereira Stival](https://www.linkedin.com/in/v0idpwn/), for pointing out this ambiguity.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

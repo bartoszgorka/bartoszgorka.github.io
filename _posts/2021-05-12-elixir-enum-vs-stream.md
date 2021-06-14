@@ -119,7 +119,3 @@ tags:
 
   Enum module instead is good when your collections are small (memory size is small).
   **Most often, you will be executing the Enum module** but also understand the benefits of Stream.
-
-  **What do you think about it?**
-  Do you have any insights you want to share?
-  The comments section below is for you!

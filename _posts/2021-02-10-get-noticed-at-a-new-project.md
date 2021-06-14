@@ -121,7 +121,3 @@ tags:
   The article was based on my own experiences and conversations with the team.
   **Maybe you were the bad guy** who wanted to do everything differently?
   I was once. It's a shame.
-
-  **What do you think about it?**
-  Maybe you have your insights that you want to share?
-  The comments section below is for you!

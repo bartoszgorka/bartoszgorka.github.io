@@ -99,7 +99,3 @@ tags:
 
   I presented how we dealt with the problem of environmental variables.
   It may not be an ideal solution, but it is worth considering and adapting to your project.
-
-  **What do you think about it?**
-  Maybe you have your insights that you want to share?
-  The comments section below is for you!
