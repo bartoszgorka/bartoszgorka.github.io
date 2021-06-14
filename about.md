@@ -23,3 +23,5 @@ My actual work description can be found [here](https://bartoszgorka.com/now).
 - Product development practices based on well-tested examples, principles and design patterns.
 - Understanding the problem domain and the business value of own system.
 - Solving problems and improving businesses results.
+- Achieving better productivity and personal development.
+- Time management and procrastination reduction support.
