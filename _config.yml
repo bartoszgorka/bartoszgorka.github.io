@@ -75,6 +75,7 @@ social:
 exclude:
   - .asset-cache
   - .bundle
+  - .github
   - .editorconfig
   - .gitattributes
   - .jekyll-assets-cache
