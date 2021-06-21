@@ -5,8 +5,8 @@ excerpt: "
   The main one is the ability to create scripts and import dependencies via Mix.install.
   The interactive console can be more helpful in the software development, prototyping and debugging processes.
   "
-date: 2021-06-10 07:00:00 +01:00
-last_modified_at: 2021-06-10 07:00:00 +01:00
+date: 2021-06-16 07:00:00 +01:00
+last_modified_at: 2021-06-16 07:00:00 +01:00
 tags:
   - Elixir
   - code
