@@ -4,8 +4,8 @@ excerpt: >-
   Developers and business misunderstand the concept of technical debt.
   Building on weak foundations can result in losses and risks to your business.
   Instead of talking about debt, we should talk about missed opportunities.
-date: 2021-06-20 07:00:00 +01:00
-last_modified_at: 2021-06-20 07:00:00 +01:00
+date: 2021-06-30 07:00:00 +01:00
+last_modified_at: 2021-06-30 07:00:00 +01:00
 tags:
   - management
   - project
@@ -59,19 +59,6 @@ tags:
 
   I want to emphasize that **debt should not be an excuse and an explanation**.
   **It is the entire team's role, both developers and business, to make decisions together, which will be the best for the company.**
-
-## BONUS [subscribers only]
-
-  Our situation can be compared to **[boiling a frog](https://en.wikipedia.org/wiki/Boiling_frog)**.
-  In just a few years, your system can reach a critical state.
-  You may not notice it because it will be something familiar to you.
-  Introducing changes will not be so problematic.
-  You know how to prepare a workaround and deliver the specific functionality.
-
-  **The new persons introduced to the project will be like a frog thrown into hot water.**
-  Their only focus will be to escape the project.
-  **The technical debt builds up gradually.**
-  The involved people are often unable or unwilling to react to a growing threat.
 
 ## Summary
 
