@@ -6,7 +6,7 @@ excerpt: "
   What makes companies decide to use Elixir language?
   "
 date: 2021-02-24 07:00:00 +01:00
-last_modified_at: 2021-02-24 07:00:00 +01:00
+last_modified_at: 2021-09-07 07:00:00 +01:00
 tags:
   - Elixir
   - management
@@ -50,7 +50,7 @@ tags:
   **Delivering business value is crucial.**
   Thanks to development tools and good documentation, you can work faster.
 
-  [^mvp]: [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+  [^mvp]: Minimum viable product - a great article: [How to Build an App MVP to Launch Your Business](https://www.appdevelopmentcost.com/app-mvp)
 
   The **functional nature** of language is also essential.
   **Immutability** also has an impact.
