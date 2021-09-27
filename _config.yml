@@ -50,10 +50,16 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-target-blank
 feed:
   path: atom.xml
   tags: true
   posts_limit: 10
+
+target-blank:
+   noopener: true
+   noreferrer: true
+   rel: nofollow
 
 # Pagination - https://github.com/mmistakes/jekyll-theme-basically-basic#pagination
 paginate: 15
