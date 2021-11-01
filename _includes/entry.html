@@ -9,6 +9,16 @@
     <h1 class="entry-title">
       <a href="{{ post.url | relative_url }}" rel="bookmark">{{ title }}</a>
     </h1>
+    <ul class="entry-tags">
+      {% assign sorted_tags = post.tags | sort_natural %}
+      {% for tag in sorted_tags %}
+        <li>
+          <span class="icon">{% include icon-arrow-right.svg %}</span>
+          <a href="{{ tag | slugify | prepend: '/tags/#' | prepend: site.tag_archive.path | relative_url }}" class="" rel="tag">{{ tag }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
     {% if post.image.thumbnail %}
       {% assign entry_image = post.image.thumbnail %}
       {% unless entry_image contains '://' %}

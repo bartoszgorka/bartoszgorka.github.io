@@ -11,6 +11,28 @@ $accent-color: #dc143c !default;
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 @import "basically-basic";
 
+ul.entry-tags {
+  & {
+    list-style: none;
+    padding: 0;
+  }
+  & .icon {
+    font-size: 12px;
+    fill: $accent-color;
+  }
+  & li {
+    display: inline-block;
+    margin-right: 20px;
+    & a {
+      text-decoration: none;
+      font-size: 16px;
+      &:hover {
+        color: $accent-color;
+      }
+    }
+  }
+}
+
 // Own styles
 header#masthead {
   border-bottom: 1px solid $border-color;
