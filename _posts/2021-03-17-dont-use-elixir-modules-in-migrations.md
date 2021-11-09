@@ -5,11 +5,12 @@ excerpt: "
   We often do not realize that incorrectly used functionality may block our applications.
   Simple changes can save us from unpleasant consequences.
   "
-date: 2021-03-17 08:10:00 +01:00
-last_modified_at: 2021-03-17 08:10:00 +01:00
+date: 2021-03-17 07:10:00 +00:00
+last_modified_at: 2021-11-09 08:00:00 +00:00
 tags:
   - Elixir
   - code
+  - project
 ---
 
   Most of our projects use databases.
@@ -29,13 +30,13 @@ tags:
   [^migration_source]: [Ecto.Repo configuration](https://hexdocs.pm/ecto_sql/Ecto.Migration.html#module-repo-configuration)
 
   To ensure that the migration is performed once, Ecto will lock[^ecto_lock] the `schema_migrations` table when running migrations.
-  This guarantees that **only one server can make changes at the same time**.
+  It guarantees that **only one server can make changes at the same time**.
 
   [^ecto_lock]: [migration_lock in Ecto.Repo configuration](https://hexdocs.pm/ecto_sql/Ecto.Migration.html#module-repo-configuration)
 
   The table stores `version` and `inserted_at` columns.
   **There is no storing of checksums.**
-  This is crucial because **it allows us to modify and improve already created files**.
+  It is crucial because **it allows us to modify and improve already created files**.
 
 ## Problematic schemas
 
@@ -102,7 +103,7 @@ tags:
   ```
 
   The project is developing, but at some point, we recognize that our logs need to be transferred to a separate database.
-  To keep things in order, we delete the table `logs` and structure `Project.Schema.Log` after moving the data.
+  We delete the table `logs` and structure `Project.Schema.Log` to keep things in order after moving the data.
   **Anyone who wants to run our migration code from zero state will get an error now.**
 
   ```elixir
@@ -110,32 +111,73 @@ tags:
      (module Project.Schema.Log is not available)
   ```
 
-  **Migrations are blocked, CI cannot work.**
+  **Migrations are blocked; CI cannot work.**
   It may be a not very extensive example, but it conveys an idea.
   Using structures in migrations is dangerous.
 
   **Changing the name or deleting the fields will cause problems.**
   Most likely just when we least expect it and have other important tasks.
 
-  **How to improve invalid migration?**
-  Just use [Ecto.Migration.execute/2](https://hexdocs.pm/ecto_sql/Ecto.Migration.html#execute/2)
+### How to improve invalid migration?
+  > Note: This section has been updated since the article was posted.
+
+  There are two ways to improve.
+  The first one (originally included here) is the use of the SQL code prepared by us.
+
+  **With [Ecto.Migration.execute/2](https://hexdocs.pm/ecto_sql/Ecto.Migration.html#execute/2) you can execute the SQL command.**
+  It can be helpful if you don't want to create temporary structures.
 
   ```elixir
   execute("UPDATE logs SET action = 'modified' WHERE action = 'update';")
   ```
 
+  **The second approach is to use structures that will only be visible in the context of migration.**
+  This is some code duplication but also eliminates the problem of changing structures.
+
+  ```elixir
+  # priv/repo/migrations/timestamp_modify_log_action.exs
+  defmodule Project.Repo.Migrations.CreateLogsTable do
+    use Ecto.Migration
+
+    defmodule Log do
+      use Ecto.Schema
+
+      schema "logs" do
+        field(:action, :string)
+        field(:details, :string)
+      end
+    end
+
+    def up do
+      import Ecto.Query, only: [from: 2]
+
+      from(
+        q in Log,
+        where: q.action == "update"
+      )
+      |> Project.Repo.update_all(set: [action: "modified"])
+    end
+
+    def down do
+      ...
+    end
+  end
+  ```
+
   Theoretically, both versions will lead to the same state.
-  In the case of using data schemas, unfortunately, we close ourselves to changes.
-  Removing the schematic from the project blocks migrations and the entire project because the module is unknown.
+  I leave the choice to you.
+  **For me personally, the use of SQL seems like a more straightforward solution.**
+  I am updating the post to avoid inaccuracies as there is also an approach beyond what was initially proposed.
 
 ## Summary
 
   Changes in migrations are not tricky.
-  **Instead of structures**, we should **schemaless Ecto queries**.
-  You can still use Ecto API, but you should use it without schemas.
-  This will eliminate problems when we want to run our application with a clean database or change fields in schemas.
+  **Instead of structures**, we can use **schemaless Ecto queries**.
+  You can still use Ecto API, but in my opinion, you should use it without schemas.
+  This will eliminate problems when running our application with a clean database or changing fields in schemas.
   Simple changes today can save us from critical errors in the future.
 
-  In the previous version I used the phrase "raw SQL".
+  In the previous version, I used the phrase "raw SQL".
   It was not very precise as the Ecto API can still be used.
   Thank you, [Felipe Pereira Stival](https://www.linkedin.com/in/v0idpwn/), for pointing out this ambiguity.
+  Thank you, [Josef Strzibny](https://twitter.com/strzibnyj), for pointing out the ability to use temporary [module inside migration](https://nts.strzibny.name/schemas-in-migrations/).
