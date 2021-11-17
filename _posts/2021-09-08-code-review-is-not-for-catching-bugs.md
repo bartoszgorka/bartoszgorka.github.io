@@ -1,5 +1,6 @@
 ---
 title: "Code review is not for catching bugs"
+image: /assets/images/posts/code-review-is-not-for-catching-bugs.png
 excerpt: >-
   Code review can be an opportunity to sharing knowledge.
   Finding errors is a side effect of the entire code review process.

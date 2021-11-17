@@ -1,5 +1,6 @@
 ---
 title: "Knowledge sharing is important"
+image: /assets/images/posts/knowledge-sharing-is-important.png
 excerpt: >-
   Knowledge sharing can be a great way to grow faster.
   It's also an excellent opportunity to build the image of the expert.

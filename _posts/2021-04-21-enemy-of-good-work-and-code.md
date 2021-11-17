@@ -1,5 +1,6 @@
 ---
 title: "The enemy of good work and code"
+image: /assets/images/posts/enemy-of-good-work-and-code.png
 excerpt: "
   We spend most of our life at work.
   Work should not be a place where we are forced to go.

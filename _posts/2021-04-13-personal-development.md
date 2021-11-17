@@ -1,5 +1,6 @@
 ---
 title: "TIL: Personal development"
+image: /assets/images/posts/personal-development.png
 excerpt: "
   I love podcasts because they can change a lot in our lives.
   Recently I was analyzing one, and I would like to share something that seems extremely important to me.

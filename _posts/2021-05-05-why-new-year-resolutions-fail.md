@@ -1,5 +1,6 @@
 ---
 title: "Why New Year's resolutions fail?"
+image: /assets/images/posts/why-new-year-resolutions-fail.png
 excerpt: "
   The New Year is an occasion for new resolutions.
   Most often, they are only for a while.

@@ -1,5 +1,6 @@
 ---
 title: "Time is the most valuable resource"
+image: /assets/images/posts/time-is-the-most-valuable-resource.png
 excerpt: "
   Time can be the best gift our loved ones can receive.
   It’s you who gets to live your one and only life.

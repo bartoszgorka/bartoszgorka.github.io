@@ -1,5 +1,6 @@
 ---
 title: "UUID as Primary key with Ecto"
+image: /assets/images/posts/uuid-as-primary-key-with-ecto.png
 excerpt: >-
   A simple example of how to introduce a Universally unique identifier (UUID) into your project.
   You just need to remember a small modification in the migration and the column type change.

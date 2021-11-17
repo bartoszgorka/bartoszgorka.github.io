@@ -1,5 +1,6 @@
 ---
 title: "Dynamic Queries in Ecto"
+image: /assets/images/posts/dynamic-queries-in-ecto.png
 excerpt: >-
   The macro Ecto Query dynamic/2 allows you to build query fragments and interpolate them into one large query.
   We get easy-to-manage query building in an accessible way.

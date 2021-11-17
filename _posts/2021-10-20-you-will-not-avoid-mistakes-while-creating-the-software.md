@@ -1,5 +1,6 @@
 ---
 title: "You will not avoid mistakes while creating the software"
+image: /assets/images/posts/you-will-not-avoid-mistakes-while-creating-the-software.png
 excerpt: >-
   Don't be afraid to make mistakes.
   Even the best programmers make mistakes.

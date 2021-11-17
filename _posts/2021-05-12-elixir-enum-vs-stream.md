@@ -1,5 +1,6 @@
 ---
 title: "Manipulate enumerable: Enum vs. Stream"
+image: /assets/images/posts/elixir-enum-vs-stream.png
 excerpt: "
   Two ways of handling enumerables dominate Elixir language.
   Seemingly very similar to each other, offering a matching set of possibilities, but they behave entirely differently.

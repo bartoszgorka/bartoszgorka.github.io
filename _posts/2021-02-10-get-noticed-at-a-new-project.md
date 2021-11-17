@@ -1,5 +1,6 @@
 ---
 title: "Get noticed at a new project"
+image: /assets/images/posts/get-noticed-at-a-new-project.png
 excerpt: "
   Changing your job or team often means changing the current project.
   It can be a difficult situation for most, especially at the beginning.

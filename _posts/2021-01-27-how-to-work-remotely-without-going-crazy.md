@@ -1,5 +1,6 @@
 ---
 title: "How to work remotely without going crazy"
+image: /assets/images/posts/how-to-work-remotely-without-going-crazy.png
 excerpt: "
   Most of us have moved from working in the office to working from home.
   For most, this was a new and unexpected situation.

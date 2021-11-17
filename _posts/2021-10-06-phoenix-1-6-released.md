@@ -1,5 +1,6 @@
 ---
 title: "Phoenix 1.6 released!"
+image: /assets/images/posts/phoenix-1-6-released.png
 excerpt: >-
   We have a new version of the most popular Elixir framework - Phoenix framework.
   New generators, fixes and improvements are now available.

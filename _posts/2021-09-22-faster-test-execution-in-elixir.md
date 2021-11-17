@@ -1,5 +1,6 @@
 ---
 title: "Faster test execution in Elixir"
+image: /assets/images/posts/faster-test-execution-in-elixir.png
 excerpt: >-
   Try to use `setup_all` to prepare the data once and re-use it in tests.
   Use tags to have a better context and be able to exclude some tests.

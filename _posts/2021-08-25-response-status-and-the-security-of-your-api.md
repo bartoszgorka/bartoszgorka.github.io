@@ -1,5 +1,6 @@
 ---
 title: "Response status and the security of your API"
+image: /assets/images/posts/response-status-and-the-security-of-your-api.png
 excerpt: >-
   Have you thought about the response statuses of your endpoints?
   Some of them can be used for scanning your architecture.

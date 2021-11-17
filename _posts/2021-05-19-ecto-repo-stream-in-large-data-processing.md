@@ -1,5 +1,6 @@
 ---
 title: "Ecto.Repo.stream/1 in large data processing"
+image: /assets/images/posts/ecto-repo-stream-in-large-data-processing.png
 excerpt: "
   The datasets can be too large to handle entirely in-memory, but we should do the processing.
   With Ecto.Repo.stream/1 we can process it in batches.

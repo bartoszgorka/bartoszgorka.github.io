@@ -1,6 +1,6 @@
 <header class="intro">
-  {% if page.image %}
-    {% assign intro_image = page.image.path | default: page.image %}
+  {% if page.intro_image %}
+    {% assign intro_image = page.intro_image.path | default: page.intro_image %}
     {% unless intro_image contains '://' %}
       {% assign intro_image = intro_image | relative_url %}
     {% endunless %}

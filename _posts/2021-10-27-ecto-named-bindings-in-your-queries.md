@@ -1,5 +1,6 @@
 ---
 title: "Ecto Named Bindings in your queries"
+image: /assets/images/posts/ecto-named-bindings-in-your-queries.png
 excerpt: >-
   Positional bindings can be problematic due to the order when building large queries with many different functions.
   Named bindings can be of great help in our challenges.

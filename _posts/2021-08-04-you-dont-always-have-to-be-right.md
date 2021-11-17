@@ -1,5 +1,6 @@
 ---
 title: "You don't always have to be right"
+image: /assets/images/posts/you-dont-always-have-to-be-right.png
 excerpt: >-
   It is not always possible to be right every time.
   It didn't really matter who's the solution was chosen.

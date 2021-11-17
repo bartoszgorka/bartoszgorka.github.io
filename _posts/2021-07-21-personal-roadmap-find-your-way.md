@@ -1,5 +1,6 @@
 ---
 title: "Personal roadmap - find your way"
+image: /assets/images/posts/personal-roadmap-find-your-way.png
 excerpt: >-
   Companies often create strategy plans called roadmaps.
   In the case of a personal roadmap, the plan is for a specific person - you.

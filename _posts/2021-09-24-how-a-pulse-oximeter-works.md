@@ -1,5 +1,6 @@
 ---
 title: "How a pulse oximeter works"
+image: /assets/images/posts/how-a-pulse-oximeter-works.png
 excerpt: >-
   Have you ever wondered how a pulse oximeter works?
   A small device on the finger can track the oxygenation of our blood in a non-invasive way.

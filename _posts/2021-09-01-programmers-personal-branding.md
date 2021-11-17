@@ -1,5 +1,6 @@
 ---
 title: "Programmer's personal branding"
+image: /assets/images/posts/programmers-personal-branding.png
 excerpt: >-
   Personal branding is not only social media and a broad group of followers on Twitter or LinkedIn.
   It is the opinion of others about us and our suitability for a given topic.

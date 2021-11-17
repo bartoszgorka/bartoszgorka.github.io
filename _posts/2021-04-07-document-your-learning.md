@@ -1,5 +1,6 @@
 ---
 title: "Document your learning"
+image: /assets/images/posts/document-your-learning.png
 excerpt: "
   Recently I came across the topic of learning and documenting progress.
   Sharing our development with others can be done in many ways.

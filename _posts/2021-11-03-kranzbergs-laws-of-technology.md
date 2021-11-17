@@ -1,5 +1,6 @@
 ---
 title: "Kranzberg's laws of technology"
+image: /assets/images/posts/kranzbergs-laws-of-technology.png
 excerpt: >-
   Have you wondered about the nature of technology?
   Technology is neither good nor bad, nor is it neutral.

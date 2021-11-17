@@ -1,5 +1,6 @@
 ---
 title: "How to overcome task delay?"
+image: /assets/images/posts/how-to-overcome-procrastination.png
 excerpt: "
   You don't want to postpone tasks?
   The best way is to change your approach and set the time window for the project.

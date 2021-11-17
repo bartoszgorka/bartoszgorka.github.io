@@ -1,5 +1,6 @@
 ---
 title: "Chrome extension to start a new Clockify time entry"
+image: /assets/images/posts/chrome-extension-to-start-new-clockify-time-entry.png
 excerpt: "
   When I'm developing outside of working time, I like to collect addresses of visited websites.
   After a long time of collecting it by hand, I decided to change something.

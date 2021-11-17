@@ -1,5 +1,6 @@
 ---
 title: "What could the Internet of the future look like?"
+image: /assets/images/posts/what-could-the-internet-of-the-future-look-like.png
 excerpt: >-
   Have you ever wondered what the Internet might look like in the future?
   With the Wayforward Machine, we can move into the future to see how the Internet has dealt with the problem of advertising, user tracking, paywall, and all kinds of cybersecurity problems.
