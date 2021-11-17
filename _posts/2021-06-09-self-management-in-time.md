@@ -1,5 +1,6 @@
 ---
 title: "Self-management in time"
+image: /assets/images/posts/self-management-in-time.png
 excerpt: "
   Since you can't manage time, let's try to manage yourself in time.
   Avoid multitasking, focus on one activity, and try to do the best you can.

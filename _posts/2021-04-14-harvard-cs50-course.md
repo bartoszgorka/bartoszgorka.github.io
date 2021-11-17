@@ -1,5 +1,6 @@
 ---
 title: "The best learning resource: Harvard CS50 course"
+image: /assets/images/posts/harvard-cs50-course.png
 excerpt: "
   Harvard CS50 - probably the best free introductory programming course you can find.
   What does it offer, and why is it worth it?

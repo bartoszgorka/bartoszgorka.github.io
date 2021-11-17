@@ -1,5 +1,6 @@
 ---
 title: "TIL: Weak optimization of System.get_env/0 in Elixir"
+image: /assets/images/posts/til-weak-performance-system-get-env-0-elixir.png
 excerpt: "
   Based on Erlang VM, Elixir is often limited by a virtual machine's capabilities or the language itself.
   One such limitation manifests itself in weak optimization of System.get_env/0 function.

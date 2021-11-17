@@ -1,5 +1,6 @@
 ---
 title: "Take care of your customers"
+image: /assets/images/posts/take-care-of-your-customers.png
 excerpt: >-
   Instead of focusing solely on our business, we should try to understand the client's expectations.
   Your client's success is your success.

@@ -1,5 +1,6 @@
 ---
 title: "Don't use Elixir modules in migrations"
+image: /assets/images/posts/dont-use-elixir-modules-in-migrations.png
 excerpt: "
   Most of our projects use databases.
   We often do not realize that incorrectly used functionality may block our applications.

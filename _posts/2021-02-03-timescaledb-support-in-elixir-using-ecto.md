@@ -1,5 +1,6 @@
 ---
 title: "TimescaleDB support in Elixir using Ecto"
+image: /assets/images/posts/timescaledb-support-in-elixir-using-ecto.png
 excerpt: "Most of the projects collect a lot of data.
   It usually means a heavy loads on the database.
   What can we do to provide better request handling and lower access times?

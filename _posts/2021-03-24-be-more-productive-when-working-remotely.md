@@ -1,5 +1,6 @@
 ---
 title: "How to be more productive when working remotely?"
+image: /assets/images/posts/be-more-productive-when-working-remotely.png
 excerpt: "
   Remote work, productivity, and time management are important topics.
   I want to explore the topic of increasing productivity while working from home.

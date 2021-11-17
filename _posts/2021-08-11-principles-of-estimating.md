@@ -1,5 +1,6 @@
 ---
 title: "Principles of estimating"
+image: /assets/images/posts/principles-of-estimating.png
 excerpt: >-
   We expect our estimates will have a positive impact on the implementation.
   The most significant value of the estimation is not the value itself.

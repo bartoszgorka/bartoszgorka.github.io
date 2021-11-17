@@ -1,5 +1,6 @@
 ---
 title: "Recruitment and IT - when two worlds meet"
+image: /assets/images/posts/recruitment-and-it-when-two-worlds-meet.png
 excerpt: >-
   A good recruitment process starts with a personalized message selected for a specific candidate.
   Worth mentioning which technologies are used in the project.

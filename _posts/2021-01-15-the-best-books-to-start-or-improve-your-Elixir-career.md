@@ -1,5 +1,6 @@
 ---
 title: "The best books to start, or improve your Elixir career"
+image: /assets/images/posts/the-best-books-to-start-or-improve-your-Elixir-career.png
 excerpt: "When you start your adventure with Elixir, you may wonder where to get the knowledge.
 In this article, I have prepared a list of books that may help you become an Elixir programmer or improve your career.
 This list has been split into different levels of skill."

@@ -1,5 +1,6 @@
 ---
 title: "GitHub Copilot - a way to automatically generated code"
+image: /assets/images/posts/github-copilot-automatically-generated-code.png
 excerpt: >-
   GitHub Copilot tries to understand the programmer's intentions and generate the code closest to the expectations.
   Aside from generating code, understanding the programmer's intentions can be a much bigger problem.

@@ -1,5 +1,6 @@
 ---
 title: "Empirical approach to refactoring"
+image: /assets/images/posts/empirical-approach-to-refactoring.png
 excerpt: >-
   We don't touch the code in our projects with equal frequency.
   The tool for automatically discovering candidates comes in handy by identifying the most frequently modified files with high cyclomatic complexity.

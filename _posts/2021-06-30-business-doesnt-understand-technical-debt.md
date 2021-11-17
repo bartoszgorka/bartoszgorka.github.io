@@ -1,5 +1,6 @@
 ---
 title: "Business doesn't understand technical debt"
+image: /assets/images/posts/business-doesnt-understand-technical-debt.png
 excerpt: >-
   Developers and business misunderstand the concept of technical debt.
   Building on weak foundations can result in losses and risks to your business.

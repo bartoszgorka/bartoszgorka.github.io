@@ -1,5 +1,6 @@
 ---
 title: "New Elixir 1.12 - The developer's point of view"
+image: /assets/images/posts/elixir-1-12-released.png
 excerpt: "
   The Elixir 1.12 version introduced some significant changes.
   The main one is the ability to create scripts and import dependencies via Mix.install.

@@ -1,5 +1,6 @@
 ---
 title: "The most important thing in the project"
+image: /assets/images/posts/the-most-important-thing-in-the-project.png
 excerpt: "
   No project is perfect from the start.
   The real problems are very complicated.

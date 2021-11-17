@@ -1,5 +1,6 @@
 ---
 title: "Handling configuration variables in Elixir"
+image: /assets/images/posts/handling-configuration-variables-in-elixir.png
 excerpt: "
   We have some environmental variables in almost every Elixir application.
   They change the behavior of the system.

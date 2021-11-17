@@ -1,5 +1,6 @@
 ---
 title: "Top things that annoy programmers"
+image: /assets/images/posts/things-that-annoy-programmers.png
 excerpt: "
   Daily work provides many situations to upset, surprise, and even laugh.
   I asked my friends who are programmers what annoyed them.

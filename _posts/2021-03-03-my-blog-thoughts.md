@@ -1,5 +1,6 @@
 ---
 title: "I started my blog - thoughts"
+image: /assets/images/posts/my-blog-thoughts.png
 excerpt: "
   A blog is a great way to learn from your past.
   You can be your own teacher.

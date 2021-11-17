@@ -1,5 +1,6 @@
 ---
 title: "Take notes during the meetings"
+image: /assets/images/posts/take-notes-during-the-meetings.png
 excerpt: >-
   Taking notes and summaries of meetings can provide a better engagement in discussions.
   Notes can also be a source of truth and a good reference while working.

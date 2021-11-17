@@ -1,5 +1,6 @@
 ---
 title: "Why choose Elixir?"
+image: /assets/images/posts/why-choose-elixir.png
 excerpt: "
   Companies operate in an uncertain environment.
   Uncertain technology is certainly not something that will interest them.
