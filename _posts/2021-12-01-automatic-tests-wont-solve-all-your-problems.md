@@ -2,7 +2,7 @@
 title: "Automatic tests won't solve all your problems"
 image: /assets/images/posts/automatic-tests-wont-solve-all-your-problems.png
 excerpt: >-
-  Automated testing can burden Quality Assurance teams from the monotonous manual review of every change.
+  Automated testing can unburden Quality Assurance teams from the monotonous manual review of every change.
   They can also be a great acceleration for programmers.
   But they won't make your organization or product great overnight.
   It would help if you had people's support, a clear plan, and an understanding of expectations.
@@ -19,7 +19,7 @@ tags:
   The topic of testing in software development is very critical.
   It is generally accepted that if tests are available, it is better than not having them.
   I also sincerely support the creation of tests, especially automatic ones.
-  **Automated testing can burden Quality Assurance teams from the monotonous manual review of every change.**
+  **Automated testing can unburden Quality Assurance teams from the monotonous manual review of every change.**
 
   **Automatic tests can also be a great acceleration for the programmer** - the tests will immediately indicate if something was accidentally violated.
   Tests can also be an excellent way to introduce the project and provide documentation describing the system's allowed and forbidden actions.
