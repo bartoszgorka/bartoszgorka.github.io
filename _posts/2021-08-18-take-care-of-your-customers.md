@@ -101,15 +101,6 @@ tags:
   Sometimes it makes sense, but you have to be careful not to block the development of your product by being too strongly associated with one customer.
   It is also a financial threat, as the withdrawal of the leading customer often destroys the entire budget and is the way to the company's bankruptcy.
 
-## BONUS (only for subscribers)
-
-  **Instead of focusing solely on our business, we should try to understand the client's expectations.**
-  If we offer him a solution to his problems, we can ensure that he will use our services.
-
-  Additionally, it is important for the client to feel special in some way.
-  If you immediately feel be one of the many recipients of a mass product, the connection with a given brand and its services decreases.
-  **In the case of a very personal approach, you can expect loyalty and being a kind of brand ambassador beyond the reach of the sales department.**
-
 ## A healthy approach to expectations
 
   It is worth having a healthy approach to the client and his expectations.
