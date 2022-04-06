@@ -8,8 +8,8 @@ excerpt: >-
   You don't have to complete all tasks (alone).
   Some tasks can even be removed.
   With the Eisenhower matrix you can manage your priorities.
-date: 2022-04-06 07:00:00 +00:00
-last_modified_at: 2022-04-06 07:00:00 +00:00
+date: 2022-04-06 06:00:00 +00:00
+last_modified_at: 2022-04-06 06:00:00 +00:00
 tags:
   - management
   - project
