@@ -48,6 +48,9 @@ div.inner {
 .results .entry-title a:hover {
   color: $accent-color;
 }
+div#related {
+  margin-top: 30px;
+}
 @media (min-width: 64em) {
   .site-title {
     padding-left: 4.5vw;
