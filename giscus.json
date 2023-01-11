@@ -1,4 +1,4 @@
 {
   "origins": ["https://bartoszgorka.com"],
-  "defaultCommentOrder": "newest"
+  "defaultCommentOrder": "oldest"
 }
