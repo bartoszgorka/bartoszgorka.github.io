@@ -31,8 +31,9 @@ search: true
 search_full_content: false
 search_provider: lunr
 
-# https://github.com/mmistakes/jekyll-theme-basically-basic#google-analytics
-google_analytics: UA-179499509-1
+# Based on https://github.com/mmistakes/jekyll-theme-basically-basic#google-analytics
+# Created copy and changed script to support Google Analytics 4 (GA4)
+google_analytics_id: UA-179499509-1
 
 # https://github.com/mmistakes/jekyll-theme-basically-basic#comments-via-disqus
 disqus:
