@@ -13,7 +13,7 @@ permalink: /now
 - Still writing **Elixir** when I can, and writing here about infrastructure, cost efficiency, software design, and productivity.
 - Open for discussion on platform engineering, FinOps, and software design.
 
-Location: Poznań, Poland
+Location: Małopolska, Poland
 
 Page inspired by: [nownownow.com](https://nownownow.com/about)
 
