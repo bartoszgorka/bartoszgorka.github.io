@@ -3,12 +3,13 @@ lang: en-US
 title: Bartosz Górka
 email: bartosz@bartoszgorka.com
 description: >-
-  I am a software engineer looking for challenging problems to solve.
-  My specialization is backend development with strong emphasis put on Domain Driven Design, Elixir/OTP principles, and modular software design.
-  I draw a lot of inspiration from distributed systems, Systems Thinking, and artificial intelligence.
+  I am a Platform / DevOps & FinOps Engineer working across the infrastructure and software engineering boundary.
+  I build and operate shared cloud infrastructure, Kubernetes platforms, observability, and cost governance,
+  with a focus on automation, reliability, security, and cost efficiency.
+  My background is backend development with a strong emphasis on Domain Driven Design, Elixir/OTP principles, and modular software design.
 
-  The goal I constantly pursue is to build modern and amazing products that allow you to change the world with your business.
-  My motto is: Be the change you wish to see in the world.
+  The goal I constantly pursue is to build modern and reliable platforms that let businesses move fast without burning money.
+  My motto is: Be the change you wish to see in the world.
 baseurl: ""
 url: https://bartoszgorka.com
 use_logo: false
@@ -93,6 +94,8 @@ exclude:
   - LICENSE
   - node_modules
   - README
+  - README.md
+  - SECURITY.md
   - CNAME
   - vendor/bundle/
   - vendor/cache/

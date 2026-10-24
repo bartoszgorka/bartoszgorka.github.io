@@ -1,4 +1,4 @@
-{{ if site.comments.giscus.enabled }}
+{% if site.comments.giscus.enabled %}
 <script src="https://giscus.app/client.js"
         data-repo="{{site.comments.giscus.repo}}"
         data-repo-id="{{site.comments.giscus.repo_id}}"
@@ -16,4 +16,4 @@
         async>
 </script>
 <noscript>Please enable JavaScript to view the comments.</noscript>
-{{ end }}
+{% endif %}
