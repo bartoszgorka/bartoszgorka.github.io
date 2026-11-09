@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Local development only. Production is built by GitHub Pages
 # (actions/jekyll-build-pages), which ships its own github-pages gem.
-gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "github-pages", "~> 233", group: :jekyll_plugins
 
 # Plugins whitelisted by GitHub Pages.
 group :jekyll_plugins do
